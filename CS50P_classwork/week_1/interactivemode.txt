@@ -1,0 +1,14 @@
+"""
+This file is created in 14th April at 08:57
+"""
+Using the Python in Interactive mode 
+It is One Of the most used feature In Python
+It will Execute the Code In only Single line It Doesn't need any file Creation for this Process
+To use this feature we need to type the Python in the terminal Window It Will GO to the Interactive mode
+>>>
+It Will Show this We can execute a single line Python code without Creation of any file
+
+
+Ex:
+   1)We can try like 1+1
+   2)print("hello, world!")

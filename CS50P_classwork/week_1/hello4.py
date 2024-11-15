@@ -7,7 +7,7 @@ name = input("What is your  name?")
 
 print("hello,"+name)#As we observe that there is no space between the hello and name 
 
-#Here the '+' operator will concatination the nama with hello.
+#Here the '+' operator will concatination the name with hello.
 
 #To fix this we are using this ',' operator it will automatically give the space.
 

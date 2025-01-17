@@ -1,6 +1,0 @@
-APIs is an Application Program Interface that refers files and functions but often really refer to 3rd party servers
-that programs can talk
-here we need to install most important package called 'requests'
-by pip install requests
-official url: pypi.org/project/requests
-here we are using Apple Music i.e. itunes

@@ -1,9 +1,0 @@
-Python support Packages that we can import from 3rd party packages
-We can install windows, MacOS and any other cloud server
-We can Install form PyPI(Python Package Index)
-URL:pypi.org
-Let's Try to install a package called cowsay
-URL:pypi.org/project/cowsay
-we call install this package going to the CMD and type
-
-pip install cowsay

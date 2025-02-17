@@ -13,8 +13,8 @@ class Item:
         return self.quantity * self.price
 
     def apply_discount(self):
-        self.price = self.price * self.pay_rate
-
+        self.price = self.price * self.pay_rate # If we apply self here it always apply default pay_rate is =0.8
+        # if we want to change the pay rate for instance level it is best pratice to use 'self'                  
 item1 =Item('Phone',100.0,1)
 item1.apply_discount()
 print(item1.price)
